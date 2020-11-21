@@ -1,0 +1,130 @@
+
+body{
+    direction: rtl; 
+     text-align: right ;
+     
+     background-color: white;
+   
+  
+   
+}
+.navbarr{
+    width: 100%;
+     position: fixed;
+      z-index: 1;
+     background-color:rgb(255, 255, 255);
+ }
+
+
+.co{
+    
+    font-size: 25px;
+     text-align: justify;
+     padding: 15px;
+     margin-top: 60px;
+    
+}
+
+.cos{
+    
+    font-size: 25px;
+     text-align: justify;
+     padding: 25px;
+     margin-top: 60px;
+     border: black solid 3px;
+     border-radius: 10px;
+     background-color: cadetblue;
+     color: rgb(255, 255, 255);
+     margin-bottom: 50px;
+    
+}
+.hh1{
+    text-align: center;
+    font-size: 65px;
+    margin: 20px;
+}
+.facc{ 
+    z-index: 1;
+    margin-top: 550px;
+  
+   
+    font-size: 40px; 
+    position: fixed;
+ 
+  
+}
+
+.navbarr
+{ 
+    position:fixed;
+  
+   
+
+}
+
+
+.nav-ul{
+    direction: rtl;
+    padding: 0px; 
+    margin-left: auto;
+}
+.nav-item{
+   list-style-type: none;
+    float: left;
+    font-size: 20px; 
+ 
+    
+}
+
+.sm{
+    margin-top: 50px;
+}
+.p{
+    border-right: solid 6px black;
+    padding: 20px;
+}
+.model{
+    border: solid 6px cadetblue;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+
+  
+}
+.cardmodel{
+
+
+    background-color: rgb(191, 185, 185);
+     margin-top: 60px;
+
+
+}
+.pin{
+    font-size: 20px;
+    border-right: black solid 5px;
+    padding: 20px;
+}
+.footer{
+
+    text-align: center;
+    font-size: 60px;
+    background-color: cadetblue;
+    float: left;
+}
+.specificatio{
+    font-size: 25px;
+    padding: 20px;
+}
+.text{
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.text-dar{
+    color: black;
+}
